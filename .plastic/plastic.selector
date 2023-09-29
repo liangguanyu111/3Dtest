@@ -1,0 +1,4 @@
+repository "3Dtest@yonce1999@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
